@@ -1,5 +1,7 @@
 ![image](https://github.com/user-attachments/assets/60972f81-52d6-42c1-9aaf-d3c6d9785676)
 
+![image](https://github.com/user-attachments/assets/a5134cea-1027-4d19-98d5-c89e56005384)
+
 ```cpp
 import java.util.Scanner;
 import java.util.TreeMap;
@@ -40,3 +42,6 @@ public class baiTapSetMap {
     }
 }
 ```
+
+![image](https://github.com/user-attachments/assets/2f11cefe-389d-485c-8e7f-474b9d7b2770)
+
